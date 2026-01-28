@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on MERN stack projects (MongoDB, Express.js, React, Node.js)
+
 🌱 I’m currently learning full-stack web development and modern JavaScript
+
 👯 I’m looking to collaborate on MERN stack and open-source web projects
 🤔 I’m looking for help with best practices in full-stack development and scalability
 💬 Ask me about JavaScript, React, Node.js, and web development basics
