@@ -4,10 +4,13 @@
 🌱 I’m currently learning full-stack web development and modern JavaScript
 
 👯 I’m looking to collaborate on MERN stack and open-source web projects
+
 🤔 I’m looking for help with best practices in full-stack development and scalability
+
 💬 Ask me about JavaScript, React, Node.js, and web development basics
-📫 How to reach me: GitHub or email
-😄 Pronouns: He/Him
+
+📫 How to reach me: GitHub or harpitmaheshwary@gmail.com
+
 ⚡ Fun fact: I love turning ideas into full-stack web applications
 
 
